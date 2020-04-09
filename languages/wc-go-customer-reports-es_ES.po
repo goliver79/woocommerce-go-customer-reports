@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Customer Reports\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-09 10:30+0000\n"
+"PO-Revision-Date: 2020-04-09 10:31+0000\n"
+"Last-Translator: Logo Pedicum\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.2; wp-5.4"
+
+#: woocommerce-go-customer-reports.php:29
+msgid "Sales by Customer"
+msgstr "Ventas por cliente"
+
+#: includes/WCGoReportSalesByCustomer.php:83
+msgid "Customer ID"
+msgstr "Cliente ID"
+
+#: includes/WCGoReportSalesByCustomer.php:84
+msgid "Customer"
+msgstr "Cliente"
+
+#: includes/WCGoReportSalesByCustomer.php:85
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: includes/WCGoReportSalesByCustomer.php:86
+msgid "Country"
+msgstr "País"
+
+#: includes/WCGoReportSalesByCustomer.php:87
+msgid "Orders"
+msgstr "Pedidos"
+
+#: includes/WCGoReportSalesByCustomer.php:88
+msgid "Total"
+msgstr "Total"
+
+#: includes/WCGoReportSalesByCustomer.php:100
+msgid "Profile"
+msgstr "Perfil"
+
+#. Name of the plugin
+msgid "Woocommerce Customer Reports"
+msgstr "Woocommerce Informes de Cliente"
+
+#. Description of the plugin
+msgid ""
+"Adds new report: Sales by Customer. View, find and export your best "
+"customers."
+msgstr ""
+"Añade un nuevo informe: Ventas por Cliente. Mira, encuentra y exporta tus "
+"mejores clientes."
+
+#. Author of the plugin
+msgid "goliver79@gmail.com"
+msgstr ""
